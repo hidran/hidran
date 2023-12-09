@@ -31,17 +31,50 @@
 
 
 ## Udemy Courses
-- [Corso completo per sviluppatori web 3.0](https://www.udemy.com/user/hidranarias/)
-- [Angular bootcamp in italiano per sviluppatori web](https://www.udemy.com/user/hidranarias/)
-- [Laravel 10: La guida pratica al framework php più usato](https://www.udemy.com/user/hidranarias/)
-- [Javascript ES6-ES9: La guida pratica da zero a esperti](https://www.udemy.com/user/hidranarias/)
-- [PHP 8 e mysql: La guida completa di php 8 per sviluppatori](https://www.udemy.com/user/hidranarias/)
-- [Pronuncia inglese. English pronunciation for Italians](https://www.udemy.com/user/hidranarias/)
-- [HTML5 e CSS3: La guida completa per lo sviluppatore WEB](https://www.udemy.com/user/hidranarias/)
-- [Docker. la guida pratica per frontend e backend developers](https://www.udemy.com/user/hidranarias/)
-- [Node.js Master. Da zero a esperti in API e Javascript](https://www.udemy.com/user/hidranarias/)
-- [PhpStorm and docker master class. Best php IDE for fullstack](https://www.udemy.com/user/hidranarias/)
 
+
+- [C# e DotNet. Impara C# e sviluppa Web Apps and Api](https://www.udemy.com/course/corso-csharp-dotnet-completo-italiano/?referralCode=4B180A373CBEAC403065)
+
+- [Node.js Master. Da zero a esperti in API e Javascript](https://www.udemy.com/course/nodejs-corso-italiano-expressjs-mongodb-sequelize-sailsjs/?referralCode=3F11CEC52E707677A9E6)
+
+- [Photoshop CC. Master in Disegno Digitale e videogiochi 2d](https://www.udemy.com/course/photoshop-corso-master-disegno-digitale-webdesign-videogiochi-2d-3d/?referralCode=E9024F431D269FE2AAD5)
+
+- [Python A-Z ™: Python per Data Science con esercizi reali](https://www.udemy.com/course/video-corso-python-datascience-visualization-dataframe-numpy-matplot/?referralCode=BAE34A1107A74D87B585)
+
+- [Learn C# and make a videogame with Unity](https://www.udemy.com/course/learn-program-csharp-make-videogame-unity-prefabs-animations-platform/?referralCode=6022E7B582390890786B )
+
+
+- [C#: Impara csharp con Unity sviluppando un videogioco](https://www.udemy.com/course/csharp-corso-unity-crea-videogioco-principianti-in-italiano/?referralCode=787A5E8B4B2233D9A48D)
+
+- [Camtasia  master.Create Courses and Promotional Videos](https://www.udemy.com/course/camtasia-2020-video-editing-promotional-video-ads-facebook-youtube/?referralCode=C9C9EF29A687AEC33FBC)
+
+- [PhpStorm master class. Il Miglior IDE php per fullstack dev](https://www.udemy.com/course/phpstorm-master-class-miglior-ide-php-laravel-angular-fullstack-dev/?referralCode=FCE378E1576CEDF9B843)
+
+- [PhpStorm and docker master class. Best php IDE for fullstack](https://www.udemy.com/course/phpstorm-masterclass-best-php-ide-fullstack-laravel-angular-react/?referralCode=F627E105C9D99C99D496)
+
+- [English pronunciation for Italians.Corso Pronuncia inglese](https://www.udemy.com/course/english-pronunciation-italian-pronuncia-inglese-italiani-vide-corso/?referralCode=175CC29BDFCF908BB499)
+
+- [HTML5 e CSS3: La guida completa per lo sviluppatore WEB](https://www.udemy.com/course/html5-css-guida-completa-sviluppo-web/?referralCode=76C67E2A7EC8A633F390)
+
+- [Javascript: La guida da zero a esperti](https://www.udemy.com/course/javascript-es6-guida-ecmascript-2015-corso-italiano/?referralCode=86D424B9CD615E12065F)
+
+- [Javascript  Avanzato con TypeScript e RxJs](https://www.udemy.com/course/corso-javascript-es6-avanzato-italiano/?referralCode=FADC2CD72BDD5B0C1280)
+
+- [PHP : La guida completa per sviluppatori web](https://www.udemy.com/course/video-corso-php-sviluppo-web-principianti-avanzato-guida-php/?referralCode=1396D8C9D95E4D564CB5)
+
+- [Laravel : La guida pratica al framework php più usato](https://www.udemy.com/course/video-corso-laravel-5-guida-pratica-italiano/?referralCode=F344B05E8F41D04128E9)
+
+- [IOS , XCODE e SWIFT : Sviluppo di app per principianti](https://www.udemy.com/course/corso-sviluppo-app-ios-11-programmazione-swift-4-italiano/?referralCode=6FCA8989149B76C1FE41 )
+
+- [Angular . La guida pratica per sviluppatori web](https://www.udemy.com/course/corso-angular-5-typescript-laravel-5-guida-pratica-sviluppo-web/?referralCode=0577D8E6D0A6CA45DCF8)
+
+- [IONIC : La guida pratica per principianti](https://www.udemy.com/course/video-corso-ionic-3-principianti-italiano/?referralCode=5708D72F94D566D37138 )
+
+- [Corso React con React Redux, hooks e Laravel come backend](https://www.udemy.com/course/react-redux-per-principianti-italiano/?referralCode=B35FA614910C564F2275)
+
+- [Linux da zero a esperti per Sviluppatori Web](https://www.udemy.com/course/corso-linux-per-sviluppatori-web-lamp-apache-php-mysql/?referralCode=29AD5280E14268E3425B)
+
+- [Corso completo per sviluppatori web 2.0](https://www.udemy.com/course/corso-completo-sviluppo-web-php-css-mysql-javascript-jquery-python-app/?referralCode=A66B86D728126455FAE5  )
 ## Interests
 - 🌐 Passionate about creating user-centric software solutions.
 - 🎨 Enjoys exploring the intersection of technology and art.
@@ -49,6 +82,6 @@
 ## Let's Connect
 - 📧 [Email](mailto:hidran@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/hidran)
-- 📝 [My Blog](https://www.hidran.iy)
+- 📝 [My Blog](https://www.hidran.it)
 
 ![Your GitHub Stats](github-stats-url)
