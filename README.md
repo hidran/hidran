@@ -1,8 +1,9 @@
 # Hola, I'm Hidran Arias! 👋
 
 ## About Me
-- 💻 Software Engineer with expertise in PHP, MySQL, Oracle, CSS, HTML, Node.js, and JavaScript libraries like Angular 6, React, ExtJS, and jQuery.
-- 🌍 Fluent in multiple languages, enhancing my ability to contribute to international projects.
+- 💻 Software Engineer with expertise in C#, DotNet, Java,PHP,Laravel, MySQL, Oracle PLSQL, CSS, HTML, Node.js, and JavaScript libraries and framework such as Angular, React, ExtJS
+- Deep knowledge of Automotive and E-commerce framework such as Spryker, Prestashop and Magento
+- I´m a Polyglot and I currently Speak Spanish, Italian, English, French, Portuguese and German
 - 🎓 Continuously learning and experimenting with new technologies.
 
 ## My Work
